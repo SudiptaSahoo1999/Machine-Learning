@@ -1,2 +1,2 @@
 # Machine-Learning
-Prediction of Heart Disease by using Hybrid  Machine Learning Models
+Prediction of Heart Disease by Using Machine Learning Classifiers
