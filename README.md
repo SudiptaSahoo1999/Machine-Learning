@@ -1,2 +1,2 @@
-# Machine-Learning
-Prediction of Heart Disease by Using Machine Learning Classifiers
+# Prediction of Heart Disease by Using Machine Learning Classifiers
+Proper prediction of heart disease can prevent lifestyle threats, while false predictions can be dangerous concurrently. Machine learning plays a vital role in predicting heart disease. In this specific work, different machine learning algorithms such as logistic regression, Naive Bayes, support vector machine, decision tree, K-nearest neighbor, lightGBM, XGBoost, random forest, and an artificial neural network, are put in the UCI ML repository’s Cleveland HD dataset to predict whether a patient is affected by cardiovascular disease or not. 
